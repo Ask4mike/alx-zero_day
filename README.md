@@ -1,1 +1,1 @@
-My first readme
+Learning to code with the ALX SE Program is cool!!
